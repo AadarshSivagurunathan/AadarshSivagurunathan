@@ -11,6 +11,9 @@
 &nbsp;
 <a href="https://aadarshsivagurunathan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-048065?style=flat-square" /></a>
 &nbsp;
+<a href="https://aadarshsivagurunathan.github.io/Portfolio/Resume/Aadarsh_Software_resume.pdf" target="_blank">
+    <img alt="Resume" src="https://img.shields.io/badge/Resume-5C0EB0?style=flat-square&logo=google-drive&logoColor=white"></a>
+&nbsp;
 <img src="https://komarev.com/ghpvc/?username=aadarshsivagurunathan&label=Profile+Views&color=129BDB&style=flat-square" alt="Profile Views" />
 &nbsp;
 
@@ -25,8 +28,8 @@ class Aadarsh:
     role        = "Software Engineer"
     location    = "Bengaluru, India 🇮🇳"
     focus       = ["Agentic AI Systems", "Multi-Agent Orchestration", "Backend Engineering"]
-    stack       = ["Python", "FastAPI", "Django", "LangGraph", "LangChain"]
-    currently   = "Architecting autonomous AI systems that write code, analyze repos & validate data"
+    stack       = ["Python", "FastAPI", "Django", "LangGraph", "LangChain", "Autogen"]
+    currently   = "Architecting autonomous AI systems that write code, analyze & validate data"
     education   = "B.E. Electronics & Communication — Thiagarajar College of Engineering"
     
     def __str__(self):
@@ -72,19 +75,19 @@ class Aadarsh:
 
 ### Generative AI & Agents
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logo=graph&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logo=langgraph&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_SDK-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic_Claude_SDK-CC785C?style=for-the-badge&logoColor=white)
-![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic_Claude_SDK-CC785C?style=for-the-badge&logo=claude&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft-autogen-2&logoColor=white)
 
 ### Databases & Cloud
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Azure CosmosDB](https://img.shields.io/badge/Azure_CosmosDB-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-FF4B4B?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure CosmosDB](https://img.shields.io/badge/Azure_CosmosDB-0078D4?style=for-the-badge&logo=azure&logoColor=white)
+![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-FF4B4B?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### Web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
 ### Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -136,7 +139,7 @@ class Aadarsh:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadarshsivagurunathan)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/AadarshSivagurunathan)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AadarshSivagurunathan)
 
 <br/>
 
