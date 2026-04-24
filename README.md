@@ -100,6 +100,7 @@ class Aadarsh:
 
 | 🗂️ Project | 💡 What It Does | 🔧 Tech |
 |---|---|---|
+| **WhisperQL** | AI-powered web app that converts plain-English questions into SQL queries | FastAPI, Streamlit, Gemini, PostgresSQL |
 | **Hostel Management System** | Web-based student records system with relational DB backend | PHP, SQL, HTML/CSS |
 | **Car Showroom Management** | Full CRUD desktop app for inventory tracking | Python, PostgresSQL |
 | **Email Automation Script** | Selenium WebDriver program — fired 500+ invites for a college event | Python, Selenium |
@@ -114,13 +115,14 @@ class Aadarsh:
 
 | 🏅 Credential | 🏛️ Issuer |
 |---|---|
+| Microsoft Certified : Azure AI Fundamentals | Microsoft |
+| Claude with Amazon Bedrock | Anthropic |
+| Taming Big data with Apache Spark 4 and Python | Udemy|
 | Building AI Agents & Agentic AI Systems via Microsoft AutoGen | Udemy |
 | FastAPI – The Complete Course (Beginner + Advanced) | Udemy |
 | Django - The Complete course 2026 (Beginner + Advanced + AI) | Udemy |
-| The Complete Python Bootcamp — Zero to Hero | Udemy |
 | The Complete 2024 Web Development Bootcamp | Udemy |
-| Elite Certification — The Joy of Computing using Python | **IIT Madras** |
-| Android Development Workshop | **IISc Bangalore** |
+
 
 ---
 
